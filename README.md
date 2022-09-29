@@ -18,6 +18,10 @@ the new data. There are many cache replacement policies, all the below policies 
 * MFRU (Most Frequently Recently Used)
 * LFRU (Most Frequently Recently Used)
 
+## The results
+* Assignment 1: 100/100
+* Assignment 2: 95/100
+
 ## Run testcase
 
 To run testcase
