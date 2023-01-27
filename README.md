@@ -16,7 +16,7 @@ the new data. There are many cache replacement policies, all the below policies 
 * MFU (Most Frequently Used)
 * LFU (Least Frequently Used)
 * MFRU (Most Frequently Recently Used)
-* LFRU (Most Frequently Recently Used)
+* LFRU (Least Frequently Recently Used)
 
 ## The results
 * Assignment 1: 100/100
